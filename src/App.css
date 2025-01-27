@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  background-color: skyblue;
+  background-size: cover;
+  margin: 0px;
+}
+
+.main-heading {
+  color: #ffffff;
+}
+
+.add-user-button {
+  background-color: rgb(76, 76, 148);
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: 0px;
+  width: 100px;
+  height: 30px;
+}
+
+@media (max-width: 900px) {
+  .App {
+    width: 140vw;
+  }
+}

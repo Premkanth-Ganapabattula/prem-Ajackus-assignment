@@ -1,0 +1,29 @@
+.users-table {
+    width: 95%;
+    text-align: left;
+    padding-left: 5%;
+    height: 49vh;
+    font-size: 15px;
+}
+
+.delete-button {
+    background-color: rgb(228, 79, 79);
+    border-radius: 4px;
+    color: #ffffff;
+    border-width: 0px;
+    width: 60px;
+    height: 20px;
+    font-size: 10px;
+    margin: 5px;
+}
+
+.edit-button {
+    background-color: rgb(146, 87, 240);
+    border-radius: 4px;
+    color: #ffffff;
+    border-width: 0px;
+    width: 60px;
+    height: 20px;
+    font-size: 10px;
+    margin: 5px;
+}
